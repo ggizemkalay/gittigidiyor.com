@@ -1,0 +1,121 @@
+2021-01-29 22:48:34.377 INFO  TestCases:22 - anasayfa giriş yapıldı
+2021-01-29 22:59:22.173 INFO  TestCases:33 - Login sayfasına girildi.
+2021-01-29 22:59:28.184 INFO  TestCases:45 - Üye girişi yapıldı.
+2021-01-29 23:10:02.391 INFO  TestCases:22 - Anasayfaya giriş yapıldı.
+2021-01-29 23:10:02.394 ERROR TestCases:23 - hatalı başlık
+2021-01-29 23:10:10.958 INFO  TestCases:33 - Login sayfasına girildi.
+2021-01-29 23:10:16.945 INFO  TestCases:45 - Üye girişi yapıldı.
+2021-01-29 23:10:23.191 INFO  TestCases:56 - Arama yapıldı.
+2021-01-29 23:10:31.963 INFO  TestCases:73 - 2. arama sayfasına gidildi.
+2021-01-29 23:10:31.975 INFO  TestCases:79 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-29 23:10:33.427 INFO  TestCases:87 - Çıkan 2. ürün seçildi.
+2021-01-29 23:10:35.618 INFO  TestCases:95 - Sepete eklendi.
+2021-01-29 23:10:40.344 INFO  TestCases:109 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-29 23:10:44.463 INFO  TestCases:121 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-29 23:10:46.573 INFO  TestCases:132 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-29 23:17:15.659 INFO  TestCases:27 - Anasayfaya giriş yapıldı.
+2021-01-29 23:17:24.285 INFO  TestCases:38 - Login sayfasına girildi.
+2021-01-29 23:17:29.883 INFO  TestCases:50 - Üye girişi yapıldı.
+2021-01-29 23:17:33.958 INFO  TestCases:61 - Arama yapıldı.
+2021-01-29 23:17:42.819 INFO  TestCases:78 - 2. arama sayfasına gidildi.
+2021-01-29 23:17:42.830 INFO  TestCases:84 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-29 23:17:44.444 INFO  TestCases:92 - Çıkan 2. ürün seçildi.
+2021-01-29 23:17:46.652 INFO  TestCases:100 - Sepete eklendi.
+2021-01-29 23:17:51.526 INFO  TestCases:114 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-29 23:17:55.642 INFO  TestCases:126 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-29 23:17:57.757 INFO  TestCases:137 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-29 23:19:20.770 INFO  TestCases:38 - Login sayfasına girildi.
+2021-01-29 23:19:26.862 INFO  TestCases:50 - Üye girişi yapıldı.
+2021-01-29 23:19:33.165 INFO  TestCases:61 - Arama yapıldı.
+2021-01-29 23:19:41.879 INFO  TestCases:78 - 2. arama sayfasına gidildi.
+2021-01-29 23:19:41.890 INFO  TestCases:84 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-29 23:19:43.203 INFO  TestCases:92 - Çıkan 2. ürün seçildi.
+2021-01-29 23:19:45.383 INFO  TestCases:100 - Sepete eklendi.
+2021-01-29 23:19:50.220 INFO  TestCases:114 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-29 23:19:54.350 INFO  TestCases:126 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-29 23:19:56.460 INFO  TestCases:137 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-29 23:32:41.688 INFO  TestCases:27 - Anasayfaya giriş yapıldı.
+2021-01-29 23:32:51.289 INFO  TestCases:38 - Login sayfasına girildi.
+2021-01-29 23:32:57.400 INFO  TestCases:50 - Üye girişi yapıldı.
+2021-01-29 23:33:04.300 INFO  TestCases:61 - Arama yapıldı.
+2021-01-29 23:33:13.154 INFO  TestCases:78 - 2. arama sayfasına gidildi.
+2021-01-29 23:33:13.167 INFO  TestCases:84 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-29 23:33:14.957 INFO  TestCases:92 - Çıkan 2. ürün seçildi.
+2021-01-29 23:33:17.138 INFO  TestCases:100 - Sepete eklendi.
+2021-01-29 23:33:22.271 INFO  TestCases:114 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-29 23:33:26.412 INFO  TestCases:126 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-29 23:33:28.533 INFO  TestCases:137 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-29 23:40:11.321 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-29 23:40:20.152 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-29 23:40:26.137 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-29 23:40:32.648 INFO  TestCases:66 - Arama yapıldı.
+2021-01-29 23:40:41.254 INFO  TestCases:83 - 2. arama sayfasına gidildi.
+2021-01-29 23:40:41.269 INFO  TestCases:90 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-29 23:40:43.817 INFO  TestCases:98 - Çıkan 2. ürün seçildi.
+2021-01-29 23:40:46.117 INFO  TestCases:107 - Sepete eklendi.
+2021-01-29 23:40:52.261 INFO  TestCases:122 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-29 23:40:56.390 INFO  TestCases:134 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-29 23:40:58.503 INFO  TestCases:147 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-30 02:53:27.814 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-30 02:53:41.022 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-30 02:53:47.695 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-30 02:53:55.197 INFO  TestCases:66 - Arama yapıldı.
+2021-01-30 12:28:48.160 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-30 12:28:57.161 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-30 12:29:03.150 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-30 12:29:11.567 INFO  TestCases:66 - Arama yapıldı.
+2021-01-30 12:29:44.618 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-30 12:29:54.244 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-30 12:29:59.674 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-30 12:30:05.923 INFO  TestCases:66 - Arama yapıldı.
+2021-01-30 12:30:14.984 INFO  TestCases:83 - 2. arama sayfasına gidildi.
+2021-01-30 12:30:14.992 INFO  TestCases:90 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-30 12:30:17.295 INFO  TestCases:98 - Çıkan 2. ürün seçildi.
+2021-01-30 12:30:19.445 INFO  TestCases:107 - Sepete eklendi.
+2021-01-30 12:30:25.296 INFO  TestCases:122 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-30 12:30:29.394 INFO  TestCases:134 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-30 12:30:31.490 INFO  TestCases:147 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-30 12:33:16.356 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-30 12:33:25.950 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-30 12:33:31.608 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-30 12:33:38.616 INFO  TestCases:66 - Arama yapıldı.
+2021-01-30 12:33:46.944 INFO  TestCases:85 - 2. arama sayfasına gidildi.
+2021-01-30 12:33:46.952 INFO  TestCases:92 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-30 12:33:48.701 INFO  TestCases:100 - Çıkan 2. ürün seçildi.
+2021-01-30 12:33:50.843 INFO  TestCases:109 - Sepete eklendi.
+2021-01-30 12:33:55.842 INFO  TestCases:122 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-30 12:33:59.942 INFO  TestCases:134 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-30 12:34:02.036 INFO  TestCases:147 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-30 12:35:43.867 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-30 12:35:53.319 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-30 12:35:59.454 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-30 12:36:07.185 INFO  TestCases:66 - Arama yapıldı.
+2021-01-30 12:36:15.745 INFO  TestCases:85 - 2. arama sayfasına gidildi.
+2021-01-30 12:36:15.754 INFO  TestCases:92 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-30 12:36:18.177 INFO  TestCases:100 - Çıkan 2. ürün seçildi.
+2021-01-30 12:36:20.364 INFO  TestCases:109 - Sepete eklendi.
+2021-01-30 12:36:25.385 INFO  TestCases:122 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-30 12:36:29.523 INFO  TestCases:134 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-30 12:36:31.678 INFO  TestCases:147 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-30 12:46:01.853 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-30 12:46:11.328 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-30 12:46:16.905 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-30 12:46:24.135 INFO  TestCases:66 - Arama yapıldı.
+2021-01-30 12:46:32.353 INFO  TestCases:85 - 2. arama sayfasına gidildi.
+2021-01-30 12:46:32.362 INFO  TestCases:92 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-30 12:46:34.269 INFO  TestCases:100 - Çıkan 2. ürün seçildi.
+2021-01-30 12:46:36.412 INFO  TestCases:109 - Sepete eklendi.
+2021-01-30 12:46:41.456 INFO  TestCases:122 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-30 12:46:45.558 INFO  TestCases:134 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-30 12:46:47.648 INFO  TestCases:147 - Sepet boşaltıldı ve test tamamlandı.
+2021-01-30 12:47:33.744 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-01-30 12:47:38.986 INFO  TestCases:41 - Login sayfasına girildi.
+2021-01-30 12:47:45.019 INFO  TestCases:54 - Üye girişi yapıldı.
+2021-01-30 12:47:51.699 INFO  TestCases:66 - Arama yapıldı.
+2021-01-30 12:48:00.684 INFO  TestCases:85 - 2. arama sayfasına gidildi.
+2021-01-30 12:48:00.693 INFO  TestCases:92 - 2. sayfanın açıldığı kontrol edildi. 
+2021-01-30 12:48:02.588 INFO  TestCases:100 - Çıkan 2. ürün seçildi.
+2021-01-30 12:48:04.755 INFO  TestCases:109 - Sepete eklendi.
+2021-01-30 12:48:09.812 INFO  TestCases:122 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+2021-01-30 12:48:13.945 INFO  TestCases:134 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
+2021-01-30 12:48:16.049 INFO  TestCases:147 - Sepet boşaltıldı ve test tamamlandı.
